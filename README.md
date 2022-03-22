@@ -53,4 +53,4 @@ singletons & 778 & - & -  & 8,909 & - & - \\
 
 ```
 
-![alt text](https://https://github.com/BenSaunders27/meineDGS-Translation-Splits/edit/main/README.md?raw=true)
+![alt text](https://https://github.com/BenSaunders27/meineDGS-Translation-Splits/edit/main/nocenter.jpg?raw=true)
