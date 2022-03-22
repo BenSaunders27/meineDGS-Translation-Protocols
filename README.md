@@ -1,6 +1,4 @@
 # meineDGS-Translation-Splits
-meineDGS Translation Splits
-
 
 In this appendix, we provide further details of our released translation protocols on the \acf{mdgs} dataset. The public linguistic dataset, DGS-Korpus, can be accessed at [DGS-Korpus](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html). DGS-Korpus contains 330 sequences of free-flowing discourse between two deaf participants, each up to 10 mins in length. Discourse is centered around a wide variety of topics, age groups and format, with further details available on their website. To use the \ac{mdgs} dataset, permission must be obtained from [University of Hamburg](thomas.hanke@uni-hamburg.de). Release of these protocols does not imply permission of use, with permission required separately for each dataset user.
 
