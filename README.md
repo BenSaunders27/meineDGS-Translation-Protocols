@@ -22,17 +22,17 @@ Table 9 and 10 below show detailed statistics of the mDGS-V and mDGS protocols, 
 If you use these translation protocols in your research, please cite the following papers:
 
 ```
-@inproceedings{saunders2021signing,
-    title	=	{{Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production}},
-    author	=	{Saunders, Ben and Camgoz, Necati Cihan and Bowden, Richard},
-    booktitle	=	{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year	=	{2022}}
-
 @inproceedings{hanke2010dgs,
     title       =   {{DGS Corpus \& Dicta-Sign: The Hamburg Studio Setup}},
     author      =   {Hanke, Thomas and K{\"o}nig, Lutz and Wagner, Sven and Matthes, Silke},
     booktitle   =   {4th Workshop on the Representation and Processing of Sign Languages: Corpora and Sign Language Technologies (CSLT 2010), Valletta, Malta},
     year        =   {2010}}
+
+@inproceedings{saunders2021signing,
+    title	    =	{{Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production}},
+    author	    =	{Saunders, Ben and Camgoz, Necati Cihan and Bowden, Richard},
+    booktitle	=	{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year	    =	{2022}}
 
 ```
 
