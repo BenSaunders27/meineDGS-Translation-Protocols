@@ -4,7 +4,7 @@ In this respository, we release translation protocols on meineDGS (mDGS), a larg
 
 To adapt mdgs for use as a translation dataset, we segment the free-flowing discourse data into 40,230 segments of German sentences, sign gloss translations and respective sign language videos. Sequence segmentation was performed using spoken language sentence boundaries, with corresponding frame boundaries provided. The title of each segment (e.g. 1583882A-1) contains the original discourse title as given in the *Transcript* column (e.g. 1583882), the corresponding participant camera (A or B) and the position of the extracted sequence in the original discourse. 
  
-Our translation protocols are available as CSV files; *mDGS_Protocol_Train.csv*, *mDGS_Protocol_Dev.csv* & *mDGS_Protocol_Test.csv*, detailing *filename*, *camera*, *ger\_text*, *gloss*, *start\_time* and *stop\_time* for each split.
+Our translation protocols are available as CSV files; **mDGS_Protocol_Train.csv**, **mDGS_Protocol_Dev.csv** & **mDGS_Protocol_Test.csv**, detailing *filename*, *camera*, *ger\_text*, *gloss*, *start\_time* and *stop\_time* for each split.
 
 Table 9 and 10 below show detailed statistics of the mDGS-V and mDGS protocols, respectively. Gloss variants used in mDGS-V give distinction between sign variants, with each containing the same meaning but with differing motion. We chose to retain these variants to provide more challenging baselines for the community. Further public annotation conventions are outlined in \cite{konrad2018public}, which we follow. Additionally, gloss frame alignments are provided as *GLOSS/start-frame/stop-frame* (e.g. BUCHSTABE1/11/34).
 
