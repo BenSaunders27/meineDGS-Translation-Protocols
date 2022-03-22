@@ -11,5 +11,6 @@ Table 9 and 10 below show detailed statistics of the mDGS-V and mDGS protocols, 
 
 
 ![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/mDGS-V_Table.png?raw=true)
-![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/mDGS_Table.png?raw=true)
+![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/mDGS_table_2.png?raw=true)
+
 
