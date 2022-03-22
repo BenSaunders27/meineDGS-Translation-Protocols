@@ -19,7 +19,7 @@ Table 9 and 10 below show detailed statistics of the mDGS-V and mDGS protocols, 
 
 ## Reference
 
-If you use this code in your research, please cite the following papers:
+If you use these translation protocols in your research, please cite the following papers:
 
 ```
 @inproceedings{saunders2021signing,
