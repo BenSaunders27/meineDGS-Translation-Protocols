@@ -4,7 +4,7 @@ In this respository, we release translation protocols on meineDGS (mDGS), a larg
 
 ## License
 
-To use the mDGS dataset for computational research, a licence must be obtained from the [University of Hamburg](thomas.hanke@uni-hamburg.de). Release of these protocols does not imply permission of use or provide a license, with written permission required separately for each user. Please adhere to the data ownership policies and ensure you have the correct rights before use.
+To use the mDGS dataset for computational research, a licence must be obtained from the [University of Hamburg](thomas.hanke@uni-hamburg.de). Release of these protocols does not imply permission of use or provision of a license, with written permission required separately for each user. Please adhere to the data ownership policies and ensure you have the correct rights before use.
 
 ## Translation Protocols
 
