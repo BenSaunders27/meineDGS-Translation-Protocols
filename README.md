@@ -16,14 +16,14 @@ Table 9 and 10 below show detailed statistics of the mDGS-V and mDGS protocols, 
 
 # Reference
 
-If you use this code in your research, please cite the following [papers](https://arxiv.org/abs/2004.14874):
+If you use this code in your research, please cite the following [papers]():
 
 ```
 @inproceedings{saunders2021signing,
-	title		=	{{Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production}},
-	author		=	{Saunders, Ben and Camgoz, Necati Cihan and Bowden, Richard},
-	booktitle	=	{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-	year		=	{2022}}
+    title	=	{{Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production}},
+    author	=	{Saunders, Ben and Camgoz, Necati Cihan and Bowden, Richard},
+    booktitle	=	{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year	=	{2022}}
 
 @inproceedings{hanke2010dgs,
     title       =   {{DGS Corpus \& Dicta-Sign: The Hamburg Studio Setup}},
