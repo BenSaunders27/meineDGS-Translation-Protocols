@@ -1,12 +1,12 @@
-## MeineDGS Translation Splits
+# MeineDGS Translation Splits
 
 In this respository, we release translation protocols on meineDGS (mDGS), a large linguistic sign language dataset. The public mDGS linguistic corpus can be accessed at [mDGS](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html), containing 330 sequences of free-flowing discourse between two deaf participants, each up to 10 mins in length.  Additionally, detailed spoken language transcripts and frame-level gloss annotations are provided. Discourse is centered around a wide variety of topics, age groups and format, with further details available on the mDGS website. 
 
-# License
+## License
 
 To use the mDGS dataset for computational research, a licence must be obtained from the [University of Hamburg](thomas.hanke@uni-hamburg.de). Release of these protocols does not imply permission of use or provide a license, with written permission required separately for each user. Please adhere to the data ownership policies and ensure you have the correct rights before use.
 
-# Translation Protocols
+## Translation Protocols
 
 Our translation protocols are available as CSV files; **mDGS_Protocol_Train.csv**, **mDGS_Protocol_Dev.csv** & **mDGS_Protocol_Test.csv**, detailing *filename*, *camera*, *ger\_text*, *gloss*, *start\_time* and *stop\_time* for each split.
 
@@ -17,7 +17,7 @@ Table 9 and 10 below show detailed statistics of the mDGS-V and mDGS protocols, 
 ![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/mDGS-V_Table.png?raw=true)
 ![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/mDGS_Table.png?raw=true)
 
-# Reference
+## Reference
 
 If you use this code in your research, please cite the following papers:
 
