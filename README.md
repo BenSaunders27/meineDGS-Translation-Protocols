@@ -9,6 +9,7 @@ In this appendix, we provide further details of our released translation protoco
 
 Table \ref{tab:mDGSv_Stats} and \ref{tab:mDGS_Stats} show detailed statistics of the \ac{mdgsv} and \ac{mdgs} protocols, respectively. Gloss variants used in \ac{mdgsv} give distinction between sign variants, with each containing the same meaning but with differing motion. We chose to retain these variants to provide more challenging baselines for the community. Further public annotation conventions are outlined in \cite{konrad2018public}, which we follow. Additionally, gloss frame alignments are provided as \textit{GLOSS/start-frame/stop-frame} (e.g. BUCHSTABE1/11/34) to enable further research into \ac{cslr}.
 
+```{=latex}
 
 \begin{table}[t!]
 \centering
@@ -49,3 +50,5 @@ singletons & 778 & - & -  & 8,909 & - & - \\
 \caption{Key statistics of the \acf{mdgs} dataset split.}
 \label{tab:mDGS_Stats}
 \end{table}
+
+```
