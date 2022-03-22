@@ -52,3 +52,5 @@ singletons & 778 & - & -  & 8,909 & - & - \\
 \end{table}
 
 ```
+
+![alt text](https://https://github.com/BenSaunders27/meineDGS-Translation-Splits/edit/main/README.md?raw=true)
