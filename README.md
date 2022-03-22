@@ -1,11 +1,6 @@
 # MeineDGS Translation Splits
 
 In this respository, we release translation protocols on meineDGS (mDGS), a large linguistic sign language dataset. The public mDGS linguistic corpus can be accessed at [mDGS](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html), containing 330 sequences of free-flowing discourse between two deaf participants, with each about 10 mins in length.  Additionally, detailed spoken language transcripts, frame-level gloss annotations and 2D pose estimation sequences are provided. Discourse is centered around a wide variety of topics, age groups and format, with further details available on the mDGS website. 
-
-## License
-
-To use the mDGS dataset for computational research, a licence must be obtained from the [University of Hamburg](thomas.hanke@uni-hamburg.de). Release of these protocols does not imply permission of use or provision of a license, with written permission required separately for each user. Please adhere to the data ownership policies and ensure you have the correct rights before use.
-
 ## Translation Protocols
 
 To adapt mdgs for use as a translation dataset, we segment the free-flowing discourse data into 40,230 segments of German sentences, sign gloss translations and respective sign language videos. Sequence segmentation was performed using spoken language sentence boundaries, with corresponding frame boundaries provided. The title of each segment (e.g. 1583882A-1) contains the original discourse title as given in the *Transcript* column (e.g. 1583882), the corresponding participant camera (A or B) and the position of the extracted sequence in the original discourse. 
@@ -16,6 +11,10 @@ Our translation protocols are available as CSV files; **mDGS_Protocol_Train.csv*
 
 ![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/mDGS-V_Table.png?raw=true)
 ![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/mDGS_Table.png?raw=true)
+
+## License
+
+To use the mDGS dataset for computational research, a licence must be obtained from the [University of Hamburg](thomas.hanke@uni-hamburg.de). Release of these protocols does not imply permission of use or provision of a license, with written permission required separately for each user. Please adhere to the data ownership policies and ensure you have the correct rights before use.
 
 ## Reference
 
