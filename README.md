@@ -1,6 +1,6 @@
 # MeineDGS Translation Splits
 
-In this respository, we release translation protocols on meineDGS (mDGS), a large linguistic sign language dataset. The public mDGS linguistic corpus can be accessed at [mDGS](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html), containing 330 sequences of free-flowing discourse between two deaf participants, each up to 10 mins in length.  Additionally, detailed spoken language transcripts and frame-level gloss annotations are provided. Discourse is centered around a wide variety of topics, age groups and format, with further details available on the mDGS website. 
+In this respository, we release translation protocols on meineDGS (mDGS), a large linguistic sign language dataset. The public mDGS linguistic corpus can be accessed at [mDGS](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html), containing 330 sequences of free-flowing discourse between two deaf participants, with each about 10 mins in length.  Additionally, detailed spoken language transcripts, frame-level gloss annotations and 2D pose estimation sequences are provided. Discourse is centered around a wide variety of topics, age groups and format, with further details available on the mDGS website. 
 
 ## License
 
