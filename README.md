@@ -1,9 +1,10 @@
 # MeineDGS Translation Splits
 
 In this respository, we release translation protocols on meineDGS (mDGS), a large linguistic sign language dataset. The public mDGS linguistic corpus can be accessed at [mDGS](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html), containing 330 sequences of free-flowing discourse between two deaf participants, with each around 10 mins in length.  Additionally, detailed spoken language transcripts, frame-level gloss annotations and 2D pose estimation sequences are provided. Discourse is centered around a wide variety of topics, age groups and format, with further details available on the mDGS website. 
+
 ## Translation Protocols
 
-To adapt the mdgs corpus for use as a translation dataset, we segment the free-flowing discourse data into 40,230 segments of German sentences, sign gloss translations and respective sign language videos. Sequence segmentation was performed using spoken language sentence boundaries, with corresponding frame boundaries provided. The title of each segment (e.g. 1583882A-1) contains the original discourse title as given in the *Transcript* column (e.g. 1583882), the corresponding participant camera (A or B) and the position of the extracted sequence in the original discourse. 
+To adapt the mdgs corpus for use as a translation dataset, we segment the free-flowing discourse data into 40,230 segments of German sentences, sign gloss translations and respective sign language videos. Sequence segmentation was performed using spoken language sentence boundaries, with corresponding frame boundaries provided. The title of each segment (e.g. 1583882A-1) contains the title of the original discourse sequence as given in the *Transcript* column (e.g. 1583882), the corresponding participant camera (A or B) and the position of the extracted segment in the original discourse sequence.
 
 Table 9 and 10 below show detailed statistics of the mDGS-V and mDGS protocols, respectively. Gloss variants used in mDGS-V give distinction between sign variants, with each containing the same meaning but with differing motion. We chose to retain these variants to provide more challenging baselines for the community. Further public annotation conventions are outlined in \cite{konrad2018public}, which we follow. Additionally, gloss frame alignments are provided as *GLOSS/start-frame/stop-frame* (e.g. BUCHSTABE1/11/34).
 
@@ -15,6 +16,8 @@ Our translation protocols are available as CSV files; **mDGS_Protocol_Train.csv*
 ## License
 
 To use the mDGS dataset for computational research, a licence must be obtained from the [University of Hamburg](thomas.hanke@uni-hamburg.de). Release of these protocols does not imply permission of use or provision of a license, with written permission required separately for each user. Please adhere to the data ownership policies and ensure you have the correct rights before use.
+
+For any questions, please reach out to [b.saunders@surrey.ac.uk](b.saunders@surrey.ac.uk)
 
 ## Reference
 
