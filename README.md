@@ -15,7 +15,7 @@ Our translation protocols are available as CSV files; **mDGS_Protocol_Train.csv*
 
 ## License
 
-To use the mDGS dataset for computational research, a licence must be obtained from the [University of Hamburg](thomas.hanke@uni-hamburg.de). Release of these protocols does not imply permission of use or provision of a license, with written permission required separately for each user. Please adhere to the data ownership policies and ensure you have the correct rights before use.
+To use the mDGS dataset for computational research, a licence must be obtained from the [University of Hamburg](https://www.sign-lang.uni-hamburg.de/meinedgs/). Release of these protocols does not imply permission of use or provision of a license, with written permission required separately for each user. Please adhere to the data ownership policies and ensure you have the correct rights before use.
 
 For any questions, please reach out to [b.saunders@surrey.ac.uk](b.saunders@surrey.ac.uk)
 
