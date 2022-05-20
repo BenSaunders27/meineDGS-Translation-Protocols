@@ -8,8 +8,8 @@ To adapt the mdgs corpus for use as a translation dataset, we segment the free-f
 
 Table 9 and 10 below show detailed statistics of the meineDGS-V and meineDGS protocols, respectively. Gloss variants used in meineDGS-V give distinction between sign variants, with each containing the same meaning but with differing motion. We chose to retain these variants to provide more challenging baselines for the community. Further public annotation conventions are outlined in [(Konrad, 2018)](https://www.sign-lang.uni-hamburg.de/dgs-korpus/arbeitspapiere/DGS-Korpus_AP03-2018-01v02_en.pdf), which we follow. Additionally, gloss frame alignments are provided as *GLOSS/start-frame/stop-frame* (e.g. BUCHSTABE1/11/34) relative to the start frame of the sequence.
 
-![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/meineDGS-V_Table.png?raw=true)
-![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/meineDGS.png?raw=true)
+![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/mDGS-V_Table.png?raw=true)
+![alt text](https://github.com/BenSaunders27/meineDGS-Translation-Splits/blob/main/mDGS.png?raw=true)
 
 Our translation protocols are available as CSV files; **meineDGS_Protocol_Train.csv**, **meineDGS_Protocol_Dev.csv** & **meineDGS_Protocol_Test.csv** for both **\meineDGS** and **\meineDGS-V**. Each CSV file details *filename*, *camera*, *ger\_text*, *gloss*, *start\_time* and *stop\_time* for each split.
 
